@@ -1,7 +1,10 @@
 <template>
-  <div id="homepage">
+  <div id="thumber-page">
     <header>
-      <h1>A playground for experimenting with UI components</h1>
+      <h1>
+        Generate blurred background images from video thumbnails on Youtube &
+        Vimeo.
+      </h1>
     </header>
   </div>
 </template>
